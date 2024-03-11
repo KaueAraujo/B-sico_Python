@@ -1,0 +1,1 @@
+Estes documentos irão explorar o básico do Python, abordando conceitos de manipulação de objetos Python.
